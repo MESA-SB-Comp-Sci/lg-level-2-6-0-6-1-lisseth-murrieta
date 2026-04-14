@@ -6,7 +6,7 @@ body {
     background-color: gray;
 }
 
-h1 {
+#heading-style-1 {
     color: white;
     background-color: pink;
 }
@@ -15,7 +15,7 @@ p {
     color: white
 }
 
-#p1 {
+.p1 {
     color: yellow
 }
 
@@ -29,8 +29,7 @@ p {
 
 .border1 {
     color: black;
-    text-align: left;
     background-color: white;
     border: 4px solid orange;
-    padding: 25px;
+    padding-bottom: 50px;
 }
